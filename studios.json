@@ -1,0 +1,42 @@
+{
+  "business": "LJ Brows Studio",
+  "tagline": "Empowering Your Beauty, Every Day,",
+  "email": "info@ljbrowsstudio.com.au",
+  "booking": {
+    "all_services": "https://www.fresha.com/providers/lj-brows-studio-e60eb3tq?menu=true&allOffer=true",
+    "qr_image": "assets/img/fresha-qr.jpeg",
+    "qr_decodes_to": "https://www.fresha.com/book-now/lj-brows-studio-e60eb3tq/all-offer?qrcode=true&share=true&pId=2787811"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/lj.brows.studio/",
+    "instagram": "https://www.instagram.com/ljbrowsstudio/"
+  },
+  "studios": [
+    {
+      "id": "brisbane",
+      "name": "Brisbane",
+      "page": "brisbane.html",
+      "address": "41/662 Compton Rd, Calamvale QLD 4116",
+      "phone": "0416 713 325",
+      "phone_e164": "+61416713325",
+      "fresha": "https://www.fresha.com/a/lj-brows-studio-calamvale-662-compton-road-bs02an0m"
+    },
+    {
+      "id": "adelaide",
+      "name": "Adelaide",
+      "page": "adelaide.html",
+      "address": "Greenacres Shopping Centre, Muller Rd, Greenacres SA 5086",
+      "phone": "0410 519 285",
+      "phone_e164": "+61410519285",
+      "fresha": "https://www.fresha.com/bg/a/lj-brows-studio-greenacres-greenacres-shopping-centre-sy0194iz"
+    }
+  ],
+  "hours": {
+    "Mon-Wed": "9am-5:30pm",
+    "Thu": "9am-9pm",
+    "Fri": "9am-5:30pm",
+    "Sat": "9am-5pm",
+    "Sun": "11am-5pm"
+  },
+  "note": "Reference copy of details that appear in the HTML pages. The site is static: edit the HTML pages, and tools/lj-brows-hifi-site/scripts/build_layout.py for the shared header/footer."
+}
